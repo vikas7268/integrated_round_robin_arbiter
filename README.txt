@@ -6,7 +6,7 @@
 
 -To Avoid conflict between different device request and fair priortization implemented Round Robin scheduling alogorithim with Arbiter
 
-Here i implemented 4 reguest Arbiter with Round Robin
+Here i implemented 4 reguest & 4 grant Arbiter with Round Robin
 This arbiters can be used for any purposes.
 
 contact if any problems: vikas7268@hotmail.com
